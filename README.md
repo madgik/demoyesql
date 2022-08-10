@@ -8,6 +8,7 @@ run
 
 `
 cd interface/src/
+
 pypy3 madserver.py
 `
 
