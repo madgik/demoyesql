@@ -16,3 +16,6 @@ connect to a browser at http://localhost:8080/ and upload udfs/paste and run que
 The queries run in the demo is available at `interface/src/queries.sql` 
 and the UDF shown is available at `interface/src/udf.sql`
 
+
+More examples with integration with MonetDB and SQLite are available at https://github.com/athenarc/YeSQL
+
