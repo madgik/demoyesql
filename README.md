@@ -8,8 +8,9 @@ run
 
 `
 cd interface/src/
+`
+`
 pypy3 madserver.py
-
 `
 
 connect to a browser at http://localhost:8080/ and upload udfs/paste and run queries.
