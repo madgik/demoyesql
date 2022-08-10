@@ -22,5 +22,5 @@ This database contains two tables: 1) `nsf` which contains one column `grantid` 
 The users could also create more tables with various schemata in this database file to test more YeSQL features.
 
 
-More examples, datasets and documentation for integration with MonetDB and SQLite are available at https://github.com/athenarc/YeSQL
+More scenarios, examples, datasets and documentation for integration with MonetDB and SQLite are available at https://github.com/athenarc/YeSQL
 
