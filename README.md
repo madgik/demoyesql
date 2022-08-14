@@ -14,7 +14,7 @@ pypy3 madserver.py
 connect to a browser at http://localhost:8080/ and upload udfs/paste and run queries.
 
 The queries run in the demo is available at `interface/src/queries.sql` 
-and the UDF shown is available at `interface/src/udf.sql`
+and the UDF shown is available at `interface/src/udf.py`
 
 The users are allowed to create and test their own UDFs and queries. This demo scenario uses the sqlite database stored at 
 `interface/src/nsf_projects.db`. 
